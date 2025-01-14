@@ -11,5 +11,3 @@ image = image.convert('L')
 # Extract text
 text = pytesseract.image_to_string(image)
 pyperclip.copy(text)
-
-image = ImageGrab.grabclipboard()
