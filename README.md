@@ -1,4 +1,4 @@
-[Screen-Recording.webm](https://github.com/user-attachments/assets/53681e86-1a52-460b-9cf2-0ab3d7292f28)# OCR_Clipboard
+# OCR_Clipboard
 
 Association d'un script Python et d'un script AutoHotKeys pour ajouter le texte d'une capture d'ecran au presse papier, grace a l'OCR.
 
